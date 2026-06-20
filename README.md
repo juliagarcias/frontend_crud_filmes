@@ -1,5 +1,6 @@
 # Atividade Prática 2 - N2 - CRUD - FRONTEND - FILMES
 
+
 **Realizada por: Julia Garcia e Jennifer Lopes**
 
 Projeto Nextjs
